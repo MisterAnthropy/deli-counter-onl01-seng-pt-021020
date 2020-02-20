@@ -24,5 +24,4 @@ def now_serving(array)
     array.shift
   end
 end
-  other_deli(katz_deli, )
   
